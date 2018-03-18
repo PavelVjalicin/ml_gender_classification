@@ -37,7 +37,3 @@ prediction = clf.predict([[190, 70, 43]])
 print("Best model: "+bestCLFname)
 print(prediction)
 
-# CHALLENGE - ...and train them on our data
-
-# CHALLENGE compare their reusults and print the best one!
-
